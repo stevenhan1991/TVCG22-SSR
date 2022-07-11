@@ -10,7 +10,7 @@ Pytorch implementation for SSR-TVD: Spatial Super-Resolution for Time-Varying Da
 
 ## Data format
 
-The volume at each time step is saved as a .dat file with the little-endian format. The data is stored in column-major order, that is, z-axis goes first, then y-axis, finally x-axis. The low-resolution volumes are obtained by apply bicubic interpolation to high-resolution ones.
+The volume at each time step is saved as a .dat file with the little-endian format. The data is stored in column-major order, that is, z-axis goes first, then y-axis, finally x-axis. The low-resolution volumes are obtained by applying bicubic interpolation to high-resolution ones.
 
 ## Training models
 ```
