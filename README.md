@@ -4,6 +4,7 @@ Pytorch implementation for SSR-TVD: Spatial Super-Resolution for Time-Varying Da
 ## Prerequisites
 - Linux
 - CUDA >= 10.0
+- Skimage
 - Python >= 3.7
 - Numpy
 - Pytorch >= 1.0
