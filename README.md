@@ -40,3 +40,5 @@ python3 main.py --mode 'inf'
 	Year = {2022}}
 
 ```
+## Acknowledgements
+This research was supported in part by the U.S. National Science Foundation through grants IIS-1455886, CNS-1629914, DUE-1833129, and IIS-1955395.
